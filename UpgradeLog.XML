@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EseyeWeb">
+</Property><Property Name="Solution File" Value="C:\SMSO\EseyeWeb\EseyeWeb.sln">
+</Property><Property Name="User Options File" Value="C:\SMSO\EseyeWeb\EseyeWeb.suo">
+</Property><Property Name="Date" Value="23 August 2013">
+</Property><Property Name="Time" Value="09:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EseyeWeb.sln" Description="File successfully backed up as C:\SMSO\EseyeWeb\Backup\EseyeWeb.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EseyeWeb.suo" Description="File successfully backed up as C:\SMSO\EseyeWeb\Backup\EseyeWeb.suo">
+</Event><Event ErrorLevel="0" Project="EseyeWeb" Source="EseyeWeb.csproj" Description="Project file successfully backed up as C:\SMSO\EseyeWeb\Backup\EseyeWeb.csproj">
+</Event><Event ErrorLevel="0" Project="EseyeWeb" Source="EseyeWeb.csproj.user" Description="Project user file successfully backed up as C:\SMSO\EseyeWeb\Backup\EseyeWeb.csproj.user">
+</Event><Event ErrorLevel="0" Project="EseyeWeb" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\SMSO\EseyeWeb\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EseyeWeb" Source="Class1.cs" Description="File successfully backed up as C:\SMSO\EseyeWeb\Backup\Class1.cs">
+</Event><Event ErrorLevel="0" Project="EseyeWeb" Source="Web References\eseye\Reference.cs" Description="File successfully backed up as C:\SMSO\EseyeWeb\Backup\Web References\eseye\Reference.cs">
+</Event><Event ErrorLevel="0" Project="EseyeWeb" Source="Web References\eseye\OpenTigrillo.wsdl" Description="File successfully backed up as C:\SMSO\EseyeWeb\Backup\Web References\eseye\OpenTigrillo.wsdl">
+</Event><Event ErrorLevel="0" Project="EseyeWeb" Source="Web References\eseye\Reference.map" Description="File successfully backed up as C:\SMSO\EseyeWeb\Backup\Web References\eseye\Reference.map">
+</Event><Event ErrorLevel="0" Project="EseyeWeb" Source="App.ico" Description="File successfully backed up as C:\SMSO\EseyeWeb\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="EseyeWeb" Source="EseyeWeb.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EseyeWeb" Source="EseyeWeb.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EseyeWeb.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EseyeWeb.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EseyeWeb" Source="EseyeWeb.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
