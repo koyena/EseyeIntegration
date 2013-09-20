@@ -25,12 +25,12 @@ namespace EseyeWeb
             EseyeWeb.eseye.GPRSActivity[] gprsactivity = new EseyeWeb.eseye.GPRSActivity[100];
             EseyeWeb.eseye.ICCSummaryInformation iccsummary;
             EseyeWeb.eseye.GPRSSummary[] gprssum = new EseyeWeb.eseye.GPRSSummary[100];
-            eseye.Proxy = setupProxy("172.16.4.21:8080", "amitabhar", "koyena@mar13");
+            eseye.Proxy = setupProxy("172.16.4.21:8080", "xxxx", "xxxx");
             // The folowing line is for ignoring the SSL certificate error 
             ServicePointManager.ServerCertificateValidationCallback +=(sender, cert, chain, sslPolicyErrors) => true;
 			EseyeWeb.eseye.AuthenticationInformation authinfo = new EseyeWeb.eseye.AuthenticationInformation();
-			authinfo.emailAddress="Amitabha.Ray@securetogether.com";
-			authinfo.password="Gurga0n";
+			authinfo.emailAddress="xxxx.yyyy@abc.com";
+			authinfo.password="ccc";
 			authinfo.portalId="6b57a762-1510-42aa-0057-4948f67d63cc";
 			authinfo.portfolioId= null;
             eseye.CookieContainer = new System.Net.CookieContainer();
