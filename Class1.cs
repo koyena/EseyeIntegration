@@ -83,6 +83,11 @@ namespace EseyeWeb
           //  return wp;
         
         }
+      public void do_nothing()
+     {
+
+      //Just adding a dummy method      
+      }
        
 	}
 }
