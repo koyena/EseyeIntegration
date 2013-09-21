@@ -78,9 +78,9 @@ namespace EseyeWeb
 
         public static  WebProxy setupProxy(string proxyaddress, string username, string password)
         {
-            WebProxy wp = new WebProxy(proxyaddress);
-            wp.Credentials = new NetworkCredential(username, password);
-            return wp;
+           // WebProxy wp = new WebProxy(proxyaddress);
+           // wp.Credentials = new NetworkCredential(username, password);
+          //  return wp;
         
         }
        
